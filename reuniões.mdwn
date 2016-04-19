@@ -1,0 +1,2 @@
+[[!inline pages="reunião/* and !reunião/discussão and !reunião/*/*"
+actions=yes archive=yes rootpage="reunião" postformtext="Proponha uma nova reunião:" limit=15]]
