@@ -21,8 +21,7 @@ Veja a página de [[reuniões]] pra saber quando é a próxima.
 O grupo de telegram pra mensagens instantâneas é:
 
     https://telegram.me/joinchat/ApLxJgO07icsR-d8opOtyA
-
-Ou use o [link tg](tg://join?invite=ApLxJgO07icsR-d8opOtyA)
+    tg://join?invite=ApLxJgO07icsR-d8opOtyA
 
 ---
 
