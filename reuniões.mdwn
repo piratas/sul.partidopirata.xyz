@@ -1,4 +1,4 @@
-[[!sidebar text="""
+[[!sidebar content="""
 [[!calendar  type="month" pages="reuniao/* and !*/discussion"]]
 """]]
 
