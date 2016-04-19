@@ -1,2 +1,2 @@
-[[!inline pages="reunião/* and !reunião/discussão and !reunião/*/*"
-actions=yes archive=yes rootpage="reunião" postformtext="Proponha uma nova reunião:" limit=15]]
+[[!inline pages="reuniao/* and !reuniao/discussão and !reuniao/*/*"
+actions=yes archive=yes rootpage="reuniao" postformtext="Proponha uma nova reunião:" limit=15]]
