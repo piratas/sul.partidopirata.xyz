@@ -1,4 +1,4 @@
-## ferramenta de apoio para
+## ferramenta de apoio para as(os)
 
 # **PIRATAS do Sul**
 
@@ -31,3 +31,7 @@ Ou use o [link tg](tg://join?invite=ApLxJgO07icsR-d8opOtyA)
 *Serviço pode sair do ar a qualquer momento por qualquer motivo*
 
 [0]: http://partidopirata.org
+
+[[!sidebar content="""
+**[[reuniões]]**
+"""]]
