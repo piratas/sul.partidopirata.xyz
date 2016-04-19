@@ -1,2 +1,6 @@
+[[!sidebar text="""
+[[!calendar  type="month" pages="reuniao/* and !*/discussion"]]
+"""]]
+
 [[!inline pages="reuniao/* and !reuniao/discussão and !reuniao/*/*"
 actions=yes archive=yes rootpage="reuniao" postformtext="Proponha uma nova reunião:" limit=15]]
