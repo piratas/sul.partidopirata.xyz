@@ -32,6 +32,8 @@ O grupo de telegram pra mensagens instantâneas é:
 [0]: http://partidopirata.org
 
 [[!sidebar content="""
+**[[wiki]]**
+
 **[[reuniões]]**
 
 ---
