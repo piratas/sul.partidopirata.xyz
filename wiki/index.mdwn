@@ -1,0 +1,31 @@
+[[!toc levels=6]]
+
+---
+
+## Blogs e sites
+
+### PIRATAS do Sul
+
+Mais um blog na ikiwiki
+
+[[blog]]
+
+### Log PiratasSul
+
+Histórico de decisões piratas por redes informais.
+
+Link local: <http://127.0.0.1:43110/1J7a1C765UzSkYWnbqgwjX86BnrJL5nxeE/>
+
+Gateway pra quem não ta na [zeronet](https://zeronet.io): <https://zeronet.iikb.xyz/1J7a1C765UzSkYWnbqgwjX86BnrJL5nxeE/>
+
+### Piratas Gaúchos
+
+Mais um blog em wordpress.
+
+<http://piratasgauchos.com.br>
+
+### Partido Pirata Paraná
+
+Mais um blog em wordpress.
+
+<http://pr.partidopirata.org/>
