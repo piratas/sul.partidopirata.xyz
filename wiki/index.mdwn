@@ -29,3 +29,25 @@ Mais um blog em wordpress.
 Mais um blog em wordpress.
 
 <http://pr.partidopirata.org/>
+
+## Telegram
+
+#### Canal no Telegram
+
+<https://telegram.me/piratas_sul>
+
+### Grupos no Telegram
+
+#### Piratas Sul
+
+<https://telegram.me/joinchat/ApLxJgO07icsR-d8opOtyA>
+
+#### Piratas Gaúchas(os)
+
+<https://telegram.me/joinchat/ApLxJgNXUh32wL3mo65x8g>
+
+## Mumble
+
+#### mumble.piratas.xyz
+
+<mumble://mumble.partidopirata.xyz/Partido%20Pirata/Partido%20Pirata%20do%20Brasil%20-%20PIRATAS/Organiza%C3%A7%C3%A3o%20regional/Regionais/Sul?title=Mumble%20Pirata&version=1.2.0>
